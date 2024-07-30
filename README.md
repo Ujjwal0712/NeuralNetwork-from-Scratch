@@ -3,9 +3,9 @@ The network includes essential components such as forward propagation, backpropa
 
 Features
 
-    Fully Connected Neural Network: Implements a multi-layer perceptron with customizable architecture.
-    Numpy-Based Implementation: No deep learning frameworks are used; the project relies solely on Numpy for all computations.
-    Forward and Backward Propagation: Implements both the forward pass to compute predictions and the backward pass to update weights based on gradients.
-    Gradient Descent: Uses gradient descent optimization to minimize the loss function.
-    Activation Functions: Supports sigmoid, ReLU, and softmax activation functions.
-    Loss Functions: Implements mean squared error (MSE) and cross-entropy loss functions.
+ 1. Fully Connected Neural Network: Implements a multi-layer perceptron with customizable architecture.
+ 2. Numpy-Based Implementation: No deep learning frameworks are used; the project relies solely on Numpy for all computations.
+ 3. Forward and Backward Propagation: Implements both the forward pass to compute predictions and the backward pass to update weights based on gradients.
+ 4. Gradient Descent: Uses gradient descent optimization to minimize the loss function.
+ 5. Activation Functions: Supports sigmoid, ReLU, and softmax activation functions.
+ 6. Loss Functions: Implements mean squared error (MSE) and cross-entropy loss functions.
